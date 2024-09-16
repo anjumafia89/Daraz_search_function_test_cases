@@ -1,2 +1,3 @@
 # Search_Function_Test
-I have manually tested search functionality of Daraz(Bangladesh)
+I have manually tested Daraz's(Bangladesh) search function.
+
