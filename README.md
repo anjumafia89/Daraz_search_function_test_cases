@@ -11,6 +11,8 @@ This project focuses on testing the search functionality of the Daraz website to
 -Failed: 6
 -Failure Rate: 24%
 
+---
+
 ## Testing Scope
 -Search with valid keywords
 -Search with invalid/empty input
