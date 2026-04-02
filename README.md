@@ -4,11 +4,11 @@ Daraz Search Functionality Testing
 This project focuses on testing the search functionality of the Daraz website to ensure accurate results, usability, and performance.
 
 🧪 Test Summary
-    Total Test Cases: 25
-    Executed: 25
-		Passed: 19
-		Failed: 6
-		Failure Rate: 24%
+    -Total Test Cases: 25
+    -Executed: 25
+	-Passed: 19
+	-Failed: 6
+	-Failure Rate: 24%
 
 🔍 Testing Scope
 Search with valid keywords
